@@ -1,4 +1,3 @@
-# app/validator.py
 import difflib, re
 
 PH_RE = re.compile(r"\{NUM\}")
